@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625434438123",
+    "firebase_url": "https://eastern-concord-119605.firebaseio.com",
+    "project_id": "eastern-concord-119605",
+    "storage_bucket": "eastern-concord-119605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625434438123:android:9ab8d41c209b7d90",
+        "android_client_info": {
+          "package_name": "com.example.light.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625434438123-hqqdat00rgnj1n8gaofsrulajnib9sdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.light.release",
+            "certificate_hash": "7f3e239638aa46d4bdf296590b1865182fbea0d8"
+          }
+        },
+        {
+          "client_id": "625434438123-33kca50ml7flc7na3kogct9uip07cjjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0khkwosUxKH1eCBJKlaoRDFHuOupaHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625434438123-33kca50ml7flc7na3kogct9uip07cjjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

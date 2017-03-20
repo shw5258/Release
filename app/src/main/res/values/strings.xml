@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Release</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="cd_splash_image">ProTrip logo</string>
+
+    <!--Swipe intro strings-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">ProTrip</string>
+    <string name="slide_1_desc">Exploring just got easier ! See more and plan less.</string>
+
+    <string name="slide_2_title">Find restaurants and hotels </string>
+    <string name="slide_2_desc">See pictures and reviews of great new places also with driving directions !</string>
+
+    <string name="slide_3_title">Store and sync app data in realtime</string>
+    <string name="slide_3_desc">Access your favorite places across all of your devices.</string>
+
+    <string name="slide_4_title">Simple, trusted and secure way to Sign-in</string>
+    <string name="slide_4_desc">Sign in with Google, to create more engaging experience.</string>
+
+</resources>
